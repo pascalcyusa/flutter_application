@@ -88,3 +88,25 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+  assets:
+    - assets/images/
+    - assets/images/img1.png
+    - assets/images/img2.png
+
+  fonts:
+    - family: SixtyfourConvergence
+      fonts:
+        - asset: assets/fonts/SixtyfourConvergence-Regular.ttf
+          weight: 700
+    - family: Comfortaa
+      fonts:
+        - asset: assets/fonts/Comfortaa-Regular.ttf
+          weight: 700
+        - asset: assets/fonts/Comfortaa-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Comfortaa-Medium.ttf
+          weight: 700
+    
+
+
